@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">تم‌یار هواوی</string>
+    <string name="app_subtitle">مدیریت و نصب تم‌های EMUI و HarmonyOS</string>
+
+    <!-- Navigation -->
+    <string name="nav_gallery">گالری</string>
+    <string name="nav_online">منبع آنلاین</string>
+    <string name="nav_studio">تم‌ساز</string>
+    <string name="nav_manager">مدیریت</string>
+    <string name="nav_guide">راهنما</string>
+
+    <!-- Actions & Common -->
+    <string name="action_import_hwt">وارد کردن فایل HWT</string>
+    <string name="action_download_hwt">دانلود و افزودن</string>
+    <string name="action_add_online_source">افزودن منبع آنلاین</string>
+    <string name="action_direct_download">دانلود مستقیم لینک HWT</string>
+    <string name="action_retry">تلاش مجدد</string>
+    <string name="action_install_to_huawei">نصب در پوشه هواوی</string>
+    <string name="action_open_huawei_themes">باز کردن برنامه تم هواوی</string>
+    <string name="action_apply_wallpaper">اعمال تصویر زمینه</string>
+    <string name="action_export_hwt">ذخیره فایل HWT</string>
+    <string name="action_share_hwt">اشتراک‌گذاری بسته</string>
+    <string name="action_inspect_package">بررسی ساختار HWT</string>
+    <string name="action_delete">حذف تم</string>
+    <string name="action_connect_folder">اتصال پوشه Huawei/Themes</string>
+    <string name="action_change_folder">تغییر پوشه مقصد</string>
+    <string name="action_scan_folder">اسکن پوشه تم‌ها</string>
+    <string name="action_create_theme">ساخت و بسته‌بندی HWT</string>
+    <string name="action_pick_wallpaper">انتخاب تصویر از گالری</string>
+    <string name="action_close">بستن</string>
+    <string name="action_cancel">انصراف</string>
+    <string name="action_confirm">تأیید</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_favorite_toggle">افزودن یا حذف از علاقه‌مندی‌ها</string>
+    <string name="cd_theme_preview">پیش‌نمایش تم</string>
+    <string name="cd_search_clear">پاک کردن جستجو</string>
+    <string name="cd_back">بازگشت</string>
+    <string name="cd_studio_preview">پیش‌نمایش زنده رابط کاربری هواوی</string>
+</resources>
